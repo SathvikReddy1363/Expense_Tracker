@@ -1,0 +1,38 @@
+[
+  {
+    "name": "food",
+    "amount": 12.5,
+    "category": "gr",
+    "date": "1-11"
+  },
+  {
+    "name": "hm",
+    "amount": 100.3,
+    "category": "shopping",
+    "date": "3-11"
+  },
+  {
+    "name": "rent",
+    "amount": 367.32,
+    "category": "monthly expenses",
+    "date": "5-11"
+  },
+  {
+    "name": "tk",
+    "amount": 146.0,
+    "category": "health ins",
+    "date": "15-11"
+  },
+  {
+    "name": "Credila",
+    "amount": 50.0,
+    "category": "loan",
+    "date": "2026-02-28"
+  },
+  {
+    "name": "fonds",
+    "amount": 30.0,
+    "category": "future",
+    "date": "2026-11-01"
+  }
+]
